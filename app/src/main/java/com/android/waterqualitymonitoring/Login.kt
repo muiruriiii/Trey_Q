@@ -1,5 +1,5 @@
 package com.android.waterqualitymonitoring
-import android.support.v7.app.AppCompatActivity
+//import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.*
