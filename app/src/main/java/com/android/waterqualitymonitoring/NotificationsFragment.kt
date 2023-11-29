@@ -16,6 +16,7 @@ import kotlin.coroutines.suspendCoroutine
 import com.google.firebase.database.*
 
 class NotificationsFragment : Fragment() {
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
