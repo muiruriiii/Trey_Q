@@ -10,9 +10,9 @@
         android:id="@+id/bottom_account"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Account"
         android:gravity="center"
+        android:text="Account"
         android:textColor="@color/purple_700"
-        android:textSize="36sp"/>
+        android:textSize="36sp" />
 
 </FrameLayout>
